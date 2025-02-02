@@ -9,7 +9,7 @@ import Navbar from "./components/navbar";
 import Hero from "./components/Hero";
 import Footer from "./components/footer";
 import HowItWorks from "./pages/howitworks";
-import ContactUs from "./pages/contactus";
+import ContactUs from "./pages/contactus";//fixed
 import Features from "./pages/features";
 
 import Confetti from "react-confetti";
